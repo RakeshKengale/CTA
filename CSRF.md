@@ -17,7 +17,7 @@
 
 ## Test Cases:
 
-```
+
 1. Create a CSRF login POC using the following code.
 ```
 <html>
@@ -32,7 +32,7 @@
 ```
 2. Replace the email and password with the valid credentials.
 3. Send the script to the victim to make them click.
-```
+
 ## Example/POC :
 
 * [CSRF logs the victim into attacker's account](https://hackerone.com/reports/339352)
