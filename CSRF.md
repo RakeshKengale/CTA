@@ -22,3 +22,8 @@
 2)
 ```
 ## Example/POC :
+
+* [CSRF logs the victim into attacker's account](https://hackerone.com/reports/339352)
+* [CSRF: add item to victim's cart automatically (starbucks.com - updatecart)](https://hackerone.com/reports/177472)
+* [login csrf in analytics.mopub.com](https://hackerone.com/reports/577920)
+* [CSRF at [Apply to this program] that lead to submit your request automatic with out any validations](hhttps://hackerone.com/reports/334253)
