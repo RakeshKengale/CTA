@@ -24,9 +24,9 @@
 <html>
 <body>
 <form action="https://unikrn.com/apiv1/login" method="POST">
-<```input type="hidden" name="usr" value="[email]"```>
-<```input type="hidden" name="pwd" value="[password]"```>
-<```input type="submit" value="Submit request" /```>
+<input type="hidden" name="usr" value="[email]">
+<input type="hidden" name="pwd" value="[password]">
+<input type="submit" value="Submit request" />
 </form>
 </body>
 </html>
