@@ -19,6 +19,13 @@
 
 
 1. Create a CSRF login POC using the following code.
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
 ```<html>
 <body>
 <form action="https://unikrn.com/apiv1/login" method="POST">
