@@ -18,7 +18,7 @@
 ## Test Cases:
 
 
-* Create a CSRF login POC using the following code.
+1. Create a CSRF login POC using the following code.
 ```
 <html>
 <body>
@@ -30,8 +30,8 @@
 </body>
 </html>
 ```
-* Replace the email and password with the valid credentials.
-* Send the script to the victim to make them click.
+2. Replace the email and password with the valid credentials.
+3. Send the script to the victim to make them click.
 
 ## Example/POC :
 
